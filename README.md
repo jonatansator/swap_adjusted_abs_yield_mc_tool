@@ -24,3 +24,7 @@
 - **Yield Calculation**: Computes net cash flows by adjusting ABS yields with swap costs, then calculates portfolio yield as a percentage return.
 - **Statistics**: Extracts median yield and 95% confidence intervals (2.5th and 97.5th percentiles) from the yield distribution.
 - **Visualization**: Plots a probability histogram of yields with median and confidence interval lines using Plotly.
+
+## Screenshots
+![output](output.png)
+
